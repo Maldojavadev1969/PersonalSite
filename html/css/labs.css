@@ -1,0 +1,5 @@
+#labsTable {
+  /*font-weight:  bold; */
+  border: 1px solid black; /* create a border */
+  text-align: center; /* centers the data in the table */
+}
